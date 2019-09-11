@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="React-Extension-Pack-VScode" src="react.png">
+    <img alt="React-Extension-Pack-VScode" src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2017/04/1493235373large_react_apps_A-01.png">
 </p>
 
 ---
