@@ -9,7 +9,7 @@
         "url": "https://github.com/poseidon-p/react-extension-pack-vscode.git"
     },
     "engines": {
-        "vscode": "^1.38.0"
+        "vscode": "^1.30.0"
     },
     "icon": "react.png",
     "categories": [
